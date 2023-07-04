@@ -1,0 +1,5 @@
+    static void optimize_cpp_stdio() { 
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr); 
+        cout.tie(nullptr);
+    }
